@@ -1,4 +1,4 @@
-# diagrams.net-templates
+# drawio-templates
 
 I use these settings and styles to draw diagrams that look like this:
 
@@ -13,7 +13,12 @@ The libraries include shapes and more complex arrangements to quickly draw diagr
 
 ### Preconfigured diagrams.net editor
 
-Head over to https://www.lasssim.com/diagrams/ to find a button that will redirect you to a preconfigured diagrams.net editor with these styles and settings.
+To configure drawio from this repository [click this link](https://app.diagrams.net/?splash=0&libs=general;basic;arrows2&clibs=Uhttps://raw.githubusercontent.com/jneidel/drawio-templates/main/lib/Lasssim%20Primitives.xml;Uhttps://raw.githubusercontent.com/jneidel/drawio-templates/main/lib/Lasssim%20Arrangements.xml#):
+
+```
+# link contents
+https://app.diagrams.net/?splash=0&libs=general;basic;arrows2&clibs=Uhttps://raw.githubusercontent.com/jneidel/drawio-templates/main/lib/Lasssim%20Primitives.xml;Uhttps://raw.githubusercontent.com/jneidel/drawio-templates/main/lib/Lasssim%20Arrangements.xml#
+```
 
 ### Standalone editor
 
